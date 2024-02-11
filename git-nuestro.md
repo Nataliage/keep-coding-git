@@ -7,4 +7,8 @@ Perdona nuestros <em>conflictos</em><br />
 Como también perdonamos los de otros geeks<br />
 No nos dejes caer en <em>detached HEAD</em><br />
 y líbranos de <em>SVN</em><br />
+<<<<<<< HEAD
 <code>git commit --amend</code></p>***
+=======
+<code>git commit --amend</code></p>***
+>>>>>>> htmlify
